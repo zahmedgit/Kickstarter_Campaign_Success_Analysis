@@ -1,9 +1,10 @@
 # Mod3Kickstarter
 Analysis of Kickstarter campaign success
+
 Files:
-Analysis.ipynb: Loading,cleaning,modeling of data
-Kickstarter_data: Folder with all the .csv files used in the analysis
-Visualizations: Folder with some visualizations of the data
+- Analysis.ipynb: Loading,cleaning,modeling of data
+- Kickstarter_data: Folder with all the .csv files used in the analysis
+- Visualizations: Folder with some visualizations of the data
 
 Overview:
 You have an idea and want to start a Kickstarter campaign to raise money in order to make your idea a reality. You’re not sure though because you don’t want it to end in failure.
