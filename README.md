@@ -1,4 +1,4 @@
-# Mod3Kickstarter
+# Kickstarter Campaign Success Analysis
 Analysis of Kickstarter campaign success
 
 Files:
